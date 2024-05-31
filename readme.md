@@ -1,6 +1,5 @@
 # Dog breed prediction
 
-- In this project, I have used tensorflow and keras to build train and test a convolutional nueral network to predict dog breed.
 
 <div>
 <center>
@@ -30,9 +29,4 @@
 8. Split the data and fir it into the model and create new accuracy point.
 9. Evaluate the model for accuracy score.
 10. Using the model for prediction.
-
-## NOTE: If you have Ananconda installed then you will not need requirements.txt because anaconda comes will preinstalled pachages
-
-## NOTE: This project will take about 1 hour to run Depends on your computer
-
 
